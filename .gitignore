@@ -1,0 +1,9 @@
+/bitrix
+/upload
+/local/vendor
+.idea/
+.htaccess
+*.sql
+*.txt
+*.xml
+*.log
