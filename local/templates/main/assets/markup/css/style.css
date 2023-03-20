@@ -1158,6 +1158,8 @@ p {
   font-weight: 400;
   background-color: var(--color-blue);
   transition: var(--default-transition);
+  border: none;
+  cursor: pointer;
 }
 
 .button:hover {

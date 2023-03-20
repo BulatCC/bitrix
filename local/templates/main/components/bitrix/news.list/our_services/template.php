@@ -14,7 +14,6 @@
 $this->setFrameMode(true);
 ?>
 
-<a class="crumbs-link" href="<?= $arResult['LIST_PAGE_URL']?>"><?= $arResult["NAME"] ?></a>
 <h2 class="title"><?= $arResult['DESCRIPTION']?></h2>
 <div class="grid-3">
     <? if (!empty($arResult["ITEMS"])): ?>
